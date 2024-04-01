@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.18 123.18">
+  <defs>
+    <style>.cls-1{fill:none;}.cls-2{fill:rgb(253, 238, 233);}</style>
+  </defs>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="ALL_ARTICLES" data-name="ALL ARTICLES">
+      <g id="View_all" data-name="View all">
+        <circle class="cls-1" cx="61.59" cy="61.59" r="61.59"></circle>
+        <path class="cls-2" d="M68,38.85A6.36,6.36,0,1,0,59.89,45V90.69h3.4V45A6.37,6.37,0,0,0,68,38.85Z"></path>
+        <path class="cls-2" d="M78.53,37.79a6.36,6.36,0,0,0-3,12L66.92,90.7H70.4l8.5-40.2a6.36,6.36,0,0,0-.37-12.71Z"></path>
+        <path class="cls-2" d="M56.26,90.7,47.61,49.78a6.37,6.37,0,1,0-3.33.72l8.5,40.2Z"></path>
+      </g>
+    </g>
+  </g>
+</svg>
